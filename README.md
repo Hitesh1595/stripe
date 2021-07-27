@@ -1,0 +1,7 @@
+## stripe
+
+stripe
+
+#### License
+
+MIT

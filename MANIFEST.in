@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include stripe *.css
+recursive-include stripe *.csv
+recursive-include stripe *.html
+recursive-include stripe *.ico
+recursive-include stripe *.js
+recursive-include stripe *.json
+recursive-include stripe *.md
+recursive-include stripe *.png
+recursive-include stripe *.py
+recursive-include stripe *.svg
+recursive-include stripe *.txt
+recursive-exclude stripe *.pyc
